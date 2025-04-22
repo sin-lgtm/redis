@@ -5,7 +5,7 @@ import redis.clients.jedis.Jedis;
 import java.text.DecimalFormat;
 import java.util.Random;
 import java.util.Scanner;
-
+//看得见吗
 /**
  * @ClassDescription:
  * @JdkVersion: 2.1
